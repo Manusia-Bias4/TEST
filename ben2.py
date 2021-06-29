@@ -15,7 +15,6 @@ Pacotes = [
 print ' \x1b[1m\x1b[31m========================================='
 print ' ==     DDOS TOOLS BY BEN               =='
 print ' ========================================='
-print ' MENYUNDUT IP %s DAN MEMBERI KOPI KE PORT %s             ' % (o                  >
 
 class MyThread(threading.Thread):
 
