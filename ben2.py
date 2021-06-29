@@ -1,4 +1,12 @@
-import socket, struct, codecs, sys, threading, random, time, os
+import socket
+import struct
+import codecs
+import sys
+import threading
+import random
+import time
+import os
+
 ip = sys.argv[1]
 port = sys.argv[2]
 orgip = ip
